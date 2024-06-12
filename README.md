@@ -1,4 +1,4 @@
-# Jupyter Notebooks Studying World Problems
+# Jupyter Notebooks Studying Big Problems
 
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/curtisjhu/notebooks/HEAD)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/curtisjhu/notebooks)

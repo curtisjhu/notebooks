@@ -1,0 +1,8 @@
+name: notebooks
+dependencies:
+  - numpy
+  - pandas
+  - metpy
+  - iris-sample-data
+  - matplotlib
+  - 
