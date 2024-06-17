@@ -1,0 +1,10 @@
+name: dl
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - pip
+  - pip:
+    - openai
+    - graphviz
