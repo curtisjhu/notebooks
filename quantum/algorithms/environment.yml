@@ -1,0 +1,7 @@
+name: qc-algorithms
+dependencies:
+  - pip:
+    - qiskit
+    - matplotlib
+    - pylatexenc
+    - qiskit-aer
