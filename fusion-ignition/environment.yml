@@ -1,0 +1,5 @@
+name: hydro
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib

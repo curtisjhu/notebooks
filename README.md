@@ -1,4 +1,6 @@
-# Jupyter Notebooks Studying Big Problems
+# Jupyter Notebooks Studying Curious Problems
+
+Mostly for myself. Mostly for my own curiosity and understanding
 
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/curtisjhu/notebooks/HEAD)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/curtisjhu/notebooks)
