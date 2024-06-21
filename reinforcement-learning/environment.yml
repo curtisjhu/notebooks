@@ -1,0 +1,12 @@
+name: gymnasium
+dependencies:
+  
+  - pip
+  - pip:
+    - moviepy
+    - ffmpeg
+    - gym
+    - gymnasium
+    - gym-saturation
+    - flappy-bird-gymnasium
+    - gym-trading-env
