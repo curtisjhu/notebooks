@@ -5,6 +5,10 @@ dependencies:
   - matplotlib
   - pytorch
   - pip
+  - tensorflow
+  - tensorflow-probability
+  - keras
+  - tf-keras
   - pip:
     - openai
     - graphviz
