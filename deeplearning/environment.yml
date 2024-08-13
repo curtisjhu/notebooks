@@ -3,12 +3,12 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - pytorch
+  - ipykernel
   - pip
-  - tensorflow
-  - tensorflow-probability
-  - keras
-  - tf-keras
   - pip:
     - openai
     - graphviz
+    - keras
+    - tensorflow
+    - torch
+    - tensorflow-probability
