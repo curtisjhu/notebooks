@@ -8,7 +8,7 @@ dependencies:
   - pip:
     - openai
     - graphviz
-    - keras
-    - tensorflow
+    - tensorflow==2.16.1
+    - keras==2.15
+    - tensorflow-probability==0.24.0
     - torch
-    - tensorflow-probability
