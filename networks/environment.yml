@@ -1,0 +1,7 @@
+name: networks
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scipy
+  - networkx
