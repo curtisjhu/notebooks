@@ -1,0 +1,26 @@
+resources:
+  use_spot: True
+  region: us-central1
+  ports: 8888
+  cpus: 2 # specs
+  memory: 4
+  disk_size: 100
+
+service:
+  replicas: 1
+  readiness_probe: /
+
+setup: |
+  apt-get update
+  apt-get install -y git
+  pip install jupyterlab
+
+run: |
+  cd /home/sky
+  if [ ! -d "notebooks" ]; then
+      git clone https://github.com/curtisjhu/notebooks notebooks
+  fi
+  cd notebooks
+  git pull
+  jupyter lab --ip=0.0.0.0 --port=8888 --no-browser
+
