@@ -1,3 +1,4 @@
+name: jupyter
 resources:
   use_spot: True
   region: us-central1
