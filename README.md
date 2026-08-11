@@ -1,3 +1,5 @@
+> little old. shifted notebooks to funnyscar orgs
+
 # Jupyter Notebooks Studying Curious Problems
 
 Mostly for myself. Mostly for my own curiosity and understanding
