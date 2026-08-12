@@ -1,4 +1,5 @@
-> little old. shifted notebooks to funnyscar orgs
+> little old (undergraduate repo)
+> notebooks have grown exponentially since. shifted notebooks to various repos in funnyscar org
 
 # Jupyter Notebooks Studying Curious Problems
 
